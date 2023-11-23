@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Official_InstaPLUS
+# Subscribe YouTube Channel For Amazing Bot @Insta_PLIS
+# Ask Doubt on telegram @HackerPushkar
 
 
 class script(object):
@@ -24,10 +24,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://youtube.com/@Tech_VJ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://youtube.com/@Insta_PLUS'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/KingVj01'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/HackerPushkar'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
@@ -676,13 +676,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/HackerPushkar'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
+-Dev 2 <a href='https://t.me/Official_InstaPLUS'>InstaPLUS</a>
 
--Dev 3 <a href='https://t.me/vj_botz>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/Official_InstaPLUS>Jᴏᴇʟ </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/Official_InstaPLUS'>TEAM InstaPLUS</a>
 """
 
 
