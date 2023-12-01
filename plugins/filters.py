@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Official_InstaPLUS
+# Subscribe YouTube Channel For Amazing Bot @Insta_PLUS
+# Ask Doubt on telegram @HackerPushkar
 
 import io
 from pyrogram import filters, Client, enums
@@ -273,4 +273,8 @@ async def delallconfirm(client, message):
             ]),
             quote=True
         )
+
+# Don't Remove Credit @Official_InstaPLUS
+# Subscribe YouTube Channel For Amazing Bot @Insta_PLUS
+# Ask Doubt on telegram @HackerPushkar
 
